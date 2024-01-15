@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/lqtrung95"><img src="https://api.daily.dev/devcards/816118ff3b59490190cb1bad674bbe77.png?r=s08" width="400" alt="Trung's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/lqtrung-95/lqtrung-95/blob/master/devcard.svg" width="400" alt="Trung Le's Dev Card"/></a>
 
 ### Hi there 👋
 
