@@ -1,5 +1,8 @@
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/lqtrung-95/lqtrung-95/blob/main/devcard.svg" width="400" alt="Trung Le's Dev Card"/></a>
 
+[![lqtrung-95's GitHub | Stats](https://stats.quine.sh/lqtrung-95/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=lqtrung-95)
+
+
 ### Hi there 👋
 
 <!--
