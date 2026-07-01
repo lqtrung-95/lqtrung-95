@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 Eager to join forces with fellow tech wizards for some epic collaborations.
 - 🤔 Seeking guidance on mastering the dark arts of optimizing performance.
 - 💬 Ask me about anything JavaScript – from spells to quirks!
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/trungle-3195/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/qtrungl/)
 - 😄 Pronouns: Mr.[/t r oo ng/](https://www.youtube.com/watch?v=E5-HuUefLN0)
 
   
